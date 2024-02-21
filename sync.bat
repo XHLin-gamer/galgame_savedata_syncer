@@ -1,0 +1,2 @@
+python galgame_savedata_syncer.py
+pause
